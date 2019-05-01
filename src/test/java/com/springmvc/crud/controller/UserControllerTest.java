@@ -1,10 +1,11 @@
-package com.memorynotfound.controller;
+package com.springmvc.crud.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.memorynotfound.controller.UserController;
-import com.memorynotfound.filter.CORSFilter;
-import com.memorynotfound.model.User;
-import com.memorynotfound.service.UserService;
+import com.springmvc.crud.controller.UserController;
+import com.springmvc.crud.filter.CORSFilter;
+import com.springmvc.crud.model.User;
+import com.springmvc.crud.service.UserService;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InjectMocks;

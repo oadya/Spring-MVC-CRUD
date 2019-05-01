@@ -1,8 +1,8 @@
-package com.memorynotfound.service;
-
-import com.memorynotfound.model.User;
+package com.springmvc.crud.service;
 
 import java.util.List;
+
+import com.springmvc.crud.model.User;
 
 public interface UserService {
 

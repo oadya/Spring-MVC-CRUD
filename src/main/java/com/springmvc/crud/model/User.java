@@ -1,4 +1,4 @@
-package com.memorynotfound.model;
+package com.springmvc.crud.model;
 
 import java.io.Serializable;
 

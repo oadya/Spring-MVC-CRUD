@@ -1,7 +1,8 @@
-package com.memorynotfound.controller;
+package com.springmvc.crud.controller;
 
-import com.memorynotfound.model.User;
-import com.memorynotfound.service.UserService;
+import com.springmvc.crud.model.User;
+import com.springmvc.crud.service.UserService;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

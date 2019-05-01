@@ -1,7 +1,8 @@
-package com.memorynotfound.config;
+package com.springmvc.crud.config;
 
-import com.memorynotfound.filter.CORSFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
+import com.springmvc.crud.filter.CORSFilter;
 
 import javax.servlet.Filter;
 

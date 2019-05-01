@@ -1,7 +1,8 @@
-package com.memorynotfound.service;
+package com.springmvc.crud.service;
 
-import com.memorynotfound.model.User;
 import org.springframework.stereotype.Service;
+
+import com.springmvc.crud.model.User;
 
 import java.util.ArrayList;
 import java.util.Arrays;

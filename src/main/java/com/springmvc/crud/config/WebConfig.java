@@ -1,4 +1,4 @@
-package com.memorynotfound.config;
+package com.springmvc.crud.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
